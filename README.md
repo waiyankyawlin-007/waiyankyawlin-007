@@ -33,6 +33,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/wai-yan-kyaw-lin-69009b188/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/wai-yan-kyaw-lin-69009b188/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-WaiYanKyawLin-blue?style=flat-square&logo=linkedin"></a>
 <a href="waiyankyawlin2017@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-waiyankyawlin2017@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
